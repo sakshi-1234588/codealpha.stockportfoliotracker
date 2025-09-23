@@ -1,0 +1,9 @@
+Stock Portfolio Summary
+-----------------------
+AAPL: 3 shares x $180 = $540
+TSLA: 5 shares x $250 = $1250
+GOOG: 6 shares x $135 = $810
+AMZN: 9 shares x $140 = $1260
+MSFT: 9 shares x $320 = $2880
+
+Total Investment Value: $6740
